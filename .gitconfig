@@ -1,0 +1,7 @@
+[user]
+	email = franksong28@gmail.com
+	name = FrankSong28
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
