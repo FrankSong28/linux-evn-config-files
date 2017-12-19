@@ -2,6 +2,8 @@
   "atom-beautify":
     c:
       default_beautifier: "clang-format"
+    cpp:
+      default_beautifier: "clang-format"
     general:
       _analyticsUserId: "0f3fc3ce-63de-43fa-8fb0-1a77bf259089"
       beautifyEntireFileOnSave: false
@@ -27,6 +29,8 @@
       "find-and-replaceDecorationsZIndex": 0
       "highlight-selected": true
       "highlight-selectedDecorationsZIndex": 0
+  "symbols-tree-view":
+    scrollAnimation: false
   "tree-view":
     hideIgnoredNames: true
     hideVcsIgnoredFiles: true
