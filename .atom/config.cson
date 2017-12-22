@@ -8,6 +8,11 @@
       _analyticsUserId: "0f3fc3ce-63de-43fa-8fb0-1a77bf259089"
       beautifyEntireFileOnSave: false
   core:
+    disabledPackages: [
+      "linter"
+      "linter-gcc"
+      "linter-ui-default"
+    ]
     telemetryConsent: "limited"
     themes: [
       "atom-dark-ui"
@@ -23,6 +28,7 @@
     userId: "8d26651e-5b68-4ae8-ac65-37e25ae33cc5"
   "goto-definition":
     performanceMode: true
+  "linter-ui-default": {}
   minimap:
     plugins:
       "find-and-replace": true
