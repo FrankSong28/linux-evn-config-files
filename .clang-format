@@ -1,5 +1,6 @@
 ---
 Language: Cpp
+AlignConsecutiveAssignments: true
 AllowShortIfStatementsOnASingleLine: true
 AllowShortFunctionsOnASingleLine: true
 AlignTrailingComments: true
